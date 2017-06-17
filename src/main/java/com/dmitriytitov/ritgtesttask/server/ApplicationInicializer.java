@@ -1,6 +1,7 @@
 package com.dmitriytitov.ritgtesttask.server;
 
 import com.dmitriytitov.ritgtesttask.server.config.WebConfig;
+import com.dmitriytitov.ritgtesttask.server.repository.CountryRepository;
 import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ContextLoaderListener;
 import org.springframework.web.context.support.AnnotationConfigWebApplicationContext;
